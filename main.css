@@ -51,7 +51,7 @@
 }
 .contact-form form .btn{
   display: inline-block;
-  background: #f9004d;
+  background: #74263e57;
   font-size: 1.1rem;
   letter-spacing: 1.1rem;
   text-transform: uppercase;
@@ -63,7 +63,7 @@
   cursor: pointer;
 }
 .contact-form form .btn:hover{
-  border: 2px solid #f9004d;
+  border: 2px solid #915468;
   background: transparent;
   transform: scale(1.1);
 }.blogs .box-container{
