@@ -119,3 +119,53 @@
   color:rgb(236, 40, 40);
   padding:1rem 0;
 }
+#heading{
+  height: 70px;
+  width: 100%;
+  background-color:blueviolet;
+  margin: 5px;
+}
+#navbar{
+  height: 40px;
+  width: 100%;
+  margin: 5px;
+  background-color:blueviolet;
+}
+#body-bar{
+  height: 500px;
+  width: 77%;
+  margin: 5px;
+  background-color: rgb(89, 89, 101);
+  float: right;
+}
+body{
+  background-color: rgba(235, 224, 229, 0.902);
+}
+#navbar ul{
+  list-style-type: none;
+  text-align: center;
+  padding-top: 10px;
+  margin: 0px;
+}
+#navbar ul li{
+  display:inline-block;
+}
+#navbar ul li a{
+  text-decoration: none;
+  padding: 5em;
+  color: white;
+}
+#navbar li a:hover{
+  color: brown;
+}
+table, th, td {
+  border:1px solid rgb(13, 13, 13);
+}
+
+tbody tr:nth-child(even){
+  background-color: rgb(161, 241, 241);
+}
+footer{
+  background-color: rgb(3, 3, 46);
+  text-decoration-color: #fff;
+}
